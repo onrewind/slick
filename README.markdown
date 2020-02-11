@@ -1,3 +1,9 @@
+About this fork
+-------
+
+Due to the lack of maintenance on the original repo we forked it to adjust it to our needs
+Feel free to use / fork / send PRs.
+
 slick
 -------
 
